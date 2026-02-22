@@ -7,3 +7,6 @@ env/
 # Data
 data/
 plots/
+
+# Editor settings
+.vscode/
